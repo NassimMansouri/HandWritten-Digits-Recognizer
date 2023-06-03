@@ -8,7 +8,8 @@ Usage :
 py GUI.py
 ```
 Controls : 
-UP_ARROW : Submit image
-LEFT_ARROW : Saves the image you've drawn
-RIGHT_ARROW : Clears the screen
+
+-UP_ARROW : Submit image
+-LEFT_ARROW : Saves the image you've drawn
+-RIGHT_ARROW : Clears the screen
 
