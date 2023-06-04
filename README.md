@@ -17,3 +17,4 @@ Controls :
 -RIGHT_ARROW : Clears the screen
 <br>
 
+![2023-06-03-19-00-06](https://github.com/NassimMansouri/HandWritten-Digits-Recognizer/assets/123596322/59413c04-1f57-4378-8924-0125264323ea)
